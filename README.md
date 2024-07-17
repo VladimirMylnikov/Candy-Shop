@@ -40,31 +40,52 @@
 
 ## Интерфейс
 
-<img src = "https://github.com/user-attachments/assets/a4f5b664-735e-4c7f-ba58-87242a8767d2" width ="710" /> <img src = "https://github.com/user-attachments/assets/eae8c681-f197-479d-99b3-90a1de325333" width ="200" />
+<p align="center">
+  <img src = "https://github.com/user-attachments/assets/a4f5b664-735e-4c7f-ba58-87242a8767d2" alt="Десктопная версия" width="71%">
+  <img src = "https://github.com/user-attachments/assets/eae8c681-f197-479d-99b3-90a1de325333" alt="Мобильная версия" width="19%">
+</p>
 
 *Заглавный баннер сайта*
 
-<img src = "https://github.com/user-attachments/assets/4fc7c7e1-d90b-40b9-a70a-1d7fe6ed4689" width ="710" /> <img src = "https://github.com/user-attachments/assets/a8f5107d-fe4c-4fa4-aa29-c4e21ddc3bc6" width ="200" />
+<p align="center">
+  <img src = "https://github.com/user-attachments/assets/4fc7c7e1-d90b-40b9-a70a-1d7fe6ed4689" alt="Десктопная версия" width="71%">
+  <img src = "https://github.com/user-attachments/assets/a8f5107d-fe4c-4fa4-aa29-c4e21ddc3bc6" alt="Мобильная версия" width="19%">
+</p>
 
 *Раздел с товарами*
 
-<img src = "https://github.com/user-attachments/assets/9831c408-3e11-4494-9a45-c5d7c8b18afd" width ="710" /> <img src = "https://github.com/user-attachments/assets/259dddc6-e883-4a6b-9867-2c2c8ffc92ba" width ="200" />
+<p align="center">
+  <img src = "https://github.com/user-attachments/assets/9831c408-3e11-4494-9a45-c5d7c8b18afd" alt="Десктопная версия" width="71%">
+  <img src = "https://github.com/user-attachments/assets/259dddc6-e883-4a6b-9867-2c2c8ffc92ba" alt="Мобильная версия" width="19%">
+</p>
 
 *Карточки товаров*
 
-<img src = "https://github.com/user-attachments/assets/056df415-b49d-48d4-8176-14c7a813f8b4" width ="710" /> <img src = "https://github.com/user-attachments/assets/5c7ca7fe-d246-4f1a-92bb-3aa4c4c4f003" width ="200" />
+<p align="center">
+  <img src = "https://github.com/user-attachments/assets/056df415-b49d-48d4-8176-14c7a813f8b4" alt="Десктопная версия" width="71%">
+  <img src = "https://github.com/user-attachments/assets/5c7ca7fe-d246-4f1a-92bb-3aa4c4c4f003" alt="Мобильная версия" width="19%">
+</p>
 
 *Раздел с информацией о кондитерской*
 
-<img src = "https://github.com/user-attachments/assets/f659f2fc-99bc-4ccc-a439-9cc307e7b6f3" width ="710" /> <img src = "https://github.com/user-attachments/assets/8eac04bb-6944-4c31-8185-4b21074ae099" width ="200" />
+<p align="center">
+  <img src = "https://github.com/user-attachments/assets/f659f2fc-99bc-4ccc-a439-9cc307e7b6f3" alt="Десктопная версия" width="71%">
+  <img src = "https://github.com/user-attachments/assets/8eac04bb-6944-4c31-8185-4b21074ae099" alt="Мобильная версия" width="19%">
+</p>
 
 *Раздел с контактной информацией*
 
-<img src = "https://github.com/user-attachments/assets/c77c4480-3753-4159-a975-3b0e395ab680" width ="710" /> <img src = "https://github.com/user-attachments/assets/d3214e40-3163-4a67-83e2-b1a4f111b5f4" width ="200" />
+<p align="center">
+  <img src = "https://github.com/user-attachments/assets/c77c4480-3753-4159-a975-3b0e395ab680" alt="Десктопная версия" width="71%">
+  <img src = "https://github.com/user-attachments/assets/d3214e40-3163-4a67-83e2-b1a4f111b5f4" alt="Мобильная версия" width="19%">
+</p>
 
 *Пустая корзина*
 
-<img src = "https://github.com/user-attachments/assets/6de4aa0b-9821-4965-b287-eac86485ac8e" width ="710" /> <img src = "https://github.com/user-attachments/assets/53f44e0b-9e39-4910-b8d1-31556360a581" width ="200" />
+<p align="center">
+  <img src = "https://github.com/user-attachments/assets/6de4aa0b-9821-4965-b287-eac86485ac8e" alt="Десктопная версия" width="71%">
+  <img src = "https://github.com/user-attachments/assets/53f44e0b-9e39-4910-b8d1-31556360a581" alt="Мобильная версия" width="19%">
+</p>
 
 *Корзина с товарами*
 
