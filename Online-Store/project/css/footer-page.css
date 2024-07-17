@@ -1,0 +1,12 @@
+.footer-page {
+  background: #2ba4a4;
+  padding: 25px 0;
+}
+
+.footer-page__text {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  text-align: center;
+  font-weight: 900;
+  font-size: 18px;
+}
